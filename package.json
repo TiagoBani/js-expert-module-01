@@ -1,0 +1,12 @@
+{
+  "name": "js-expert-module-01",
+  "version": "1.0.0",
+  "description": "Aggregate lessons of module 01",
+  "main": "index.js",
+  "scripts": {
+    "update-lesson-01": "./update-lesson.sh lesson-01-mocks"
+  },
+  "keywords": [],
+  "author": "Tiago Bani",
+  "license": "MIT"
+}
