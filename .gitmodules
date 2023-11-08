@@ -1,3 +1,6 @@
 [submodule "lesson-01-mocks"]
 	path = lesson-01-mocks
 	url = git@github.com:TiagoBani/js-expert-module-01-lesson-01.git
+[submodule "lesson-02-stubs"]
+	path = lesson-02-stubs
+	url = git@github.com:TiagoBani/js-expert-module-01-lesson-02.git
